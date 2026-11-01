@@ -1,0 +1,1 @@
+Promises let us handle asynchronous code in a very clean and readable way in JavaScript.
