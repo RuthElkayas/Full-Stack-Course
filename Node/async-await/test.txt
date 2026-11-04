@@ -1,0 +1,2 @@
+Hello from test.txt
+This is a sample file for the exercises.
